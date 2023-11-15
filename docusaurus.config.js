@@ -6,13 +6,12 @@
 
 import { themes as prismThemes } from "prism-react-renderer";
 
-console.log(process.env);
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "MDD OC",
   tagline: ">> tagline <<",
-  favicon: "img/favicon.ico",
-
+  favicon: "img/logo.svg",
+  plugins: [require.resolve("docusaurus-lunr-search")],
   // Set the production url of your site here
   url: "https://xiduzo.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -47,6 +46,7 @@ const config = {
           editUrl: "https://github.com/xiduzo/mdd-oc/tree/main/",
         },
         blog: {
+          routeBasePath: "/rapport",
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -78,9 +78,9 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Meetings",
+            label: "Documentation",
           },
-          { to: "/blog", label: "Rapports", position: "left" },
+          { to: "/rapport", label: "Rapports", position: "left" },
           {
             href: "https://github.com/xiduzo/mdd-oc",
             label: "GitHub",

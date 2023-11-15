@@ -130,7 +130,7 @@ The table below shows how many members have completed or are in the process of c
 
 - Lower limit of hours was split amongst 3 OC members, not including the chairman
 
-## Evaluation on the Education and Examination Regulations (OER).
+## Evaluation on the Education and Examination Regulations (OER)
 
 **Describe - briefly and in summary - the main points of the opinion on the OER.**
 
@@ -143,7 +143,7 @@ The table below shows how many members have completed or are in the process of c
 - Recommendations to the OER were generally taken seriously, however they were not implemented sufficiently. Not many changes were made to the official OER this year because of limited room for adjustment and insufficient time to be able to make meaningful changes.
 - The education committee strongly recommends looking at the feedback received from the OC during this education year, during the next educational year. Since the feedback is not properly applied to the completed OER document of 2023/2024, due to the previously listed reasons.
 
-## Evaluation on the use of study advance funds (SVM).
+## Evaluation on the use of study advance funds (SVM)
 
 **In what way is the training committee involved in the development of plans for the spending of SVM the decision-making on them?**
 
