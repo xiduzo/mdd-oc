@@ -6,6 +6,7 @@
 
 import { themes as prismThemes } from "prism-react-renderer";
 
+console.log(process.env);
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "MDD OC",
@@ -16,7 +17,7 @@ const config = {
   url: "https://xiduzo.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/mdd-oc/",
+  baseUrl: process.env.NODE_ENV === "development" ? "/" : "/mdd-oc/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
