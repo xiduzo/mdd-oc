@@ -10,7 +10,7 @@ console.log(process.env);
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "MDD OC",
-  tagline: "Helping students since 2021",
+  tagline: ">> tagline <<",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -50,8 +50,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/xiduzo/mdd-oc/tree/main/",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -81,7 +80,7 @@ const config = {
             position: "left",
             label: "Meetings",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/blog", label: "Rapports", position: "left" },
           {
             href: "https://github.com/xiduzo/mdd-oc",
             label: "GitHub",
@@ -91,47 +90,47 @@ const config = {
       },
       footer: {
         style: "dark",
-        links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "Meetings",
-                to: "/docs/intro",
-              },
-            ],
-          },
-          // {
-          //   title: "Community",
-          //   items: [
-          //     {
-          //       label: "Stack Overflow",
-          //       href: "https://stackoverflow.com/questions/tagged/docusaurus",
-          //     },
-          //     {
-          //       label: "Discord",
-          //       href: "https://discordapp.com/invite/docusaurus",
-          //     },
-          //     {
-          //       label: "Twitter",
-          //       href: "https://twitter.com/docusaurus",
-          //     },
-          //   ],
-          // },
-          {
-            title: "More",
-            items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/xiduzo/mdd-oc",
-              },
-            ],
-          },
-        ],
+        // links: [
+        //   // {
+        //   //   title: "Docs",
+        //   //   items: [
+        //   //     {
+        //   //       label: "Meetings",
+        //   //       to: "/docs/intro",
+        //   //     },
+        //   //   ],
+        //   // },
+        //   // {
+        //   //   title: "Community",
+        //   //   items: [
+        //   //     {
+        //   //       label: "Stack Overflow",
+        //   //       href: "https://stackoverflow.com/questions/tagged/docusaurus",
+        //   //     },
+        //   //     {
+        //   //       label: "Discord",
+        //   //       href: "https://discordapp.com/invite/docusaurus",
+        //   //     },
+        //   //     {
+        //   //       label: "Twitter",
+        //   //       href: "https://twitter.com/docusaurus",
+        //   //     },
+        //   //   ],
+        //   // },
+        //   // {
+        //   //   title: "More",
+        //   //   items: [
+        //   //     {
+        //   //       label: "Rapports",
+        //   //       to: "/blog",
+        //   //     },
+        //   //     {
+        //   //       label: "GitHub",
+        //   //       href: "https://github.com/xiduzo/mdd-oc",
+        //   //     },
+        //   //   ],
+        //   // },
+        // ],
         copyright: `Copyright © ${new Date().getFullYear()} MDD OC, Built with Docusaurus.`,
       },
       prism: {

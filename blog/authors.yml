@@ -1,17 +1,31 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+sander_boer:
+  name: Sander Boer
+  title: OC member - staff
+  url: mailto:a.s.boer@hva.nl
+  # image_url: https://teams.microsoft.com/75b5b535-e748-4ad6-8f9a-990ac1c59fb9
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+karim_marei:
+  name: Karim Marei
+  title: OC member - student
+  url: mailto:karim.marei@hva.nl
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+eli_keshavarzikhoozani:
+  name: Eli Keshavarzikhoozani
+  title: OC member - student
+  url: mailto:eli.keshavarzikhoozani@hva.nl
+  # image_url: https://teams.microsoft.com/api/mt/part/emea-03/beta/users/8:orgid:4c334ee8-707b-42dc-9cd5-737e13092933/profilepicturev2?displayname=Eli%20Keshavarzikhoozani&size=HR96x96
+
+romar_van_tongeren:
+  name: Romar van Tongeren
+  title: OC member - student
+  # url: mailto:eli.keshavarzikhoozani@hva.nl
+
+yasmine_khalil:
+  name: Yasmine Khalil
+  title: OC member - student
+  # url: mailto:
+
+sjoerd_simmerman:
+  name: Sjoerd Simmerman
+  title: OC member - student
+  # url: mailto:
