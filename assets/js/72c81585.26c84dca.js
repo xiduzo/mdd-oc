@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkoc=self.webpackChunkoc||[]).push([[677],{6217:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/mdd-oc/blog/tags/facebook","allTagsPath":"/mdd-oc/blog/tags","count":1,"unlisted":false}')}}]);

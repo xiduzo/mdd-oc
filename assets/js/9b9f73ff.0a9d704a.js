@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkoc=self.webpackChunkoc||[]).push([[831],{4533:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/mdd-oc/blog/tags/hello","allTagsPath":"/mdd-oc/blog/tags","count":2,"unlisted":false}')}}]);
