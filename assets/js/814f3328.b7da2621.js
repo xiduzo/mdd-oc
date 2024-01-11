@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkoc=self.webpackChunkoc||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"MDD advice rapport 2022-2023","permalink":"/mdd-oc/rapport/2022-2023","unlisted":false}]}')}}]);
