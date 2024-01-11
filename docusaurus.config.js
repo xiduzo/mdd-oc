@@ -25,6 +25,10 @@ const config = {
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
+  markdown: {
+    mermaid: true,
+  },
+  themes: ["@docusaurus/theme-mermaid"],
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -67,6 +71,11 @@ const config = {
       },
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
+      mermaid: {
+        // theme: { light: "neutral", dark: "forest" },
+        // https://mermaid.js.org/#/./Setup?id=configuration
+        options: {},
+      },
       navbar: {
         title: "MDD OC",
         logo: {
