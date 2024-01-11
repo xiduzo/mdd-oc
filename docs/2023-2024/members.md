@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+Below you will find this years members of the MDD program committee.
+
 <table>
     <thead>
         <tr>
