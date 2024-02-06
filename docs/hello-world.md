@@ -38,6 +38,4 @@ flowchart TD;
     style OtherActions opacity:0.3,stroke-dasharray:3
     click OCMeeting "/docs/category/2023-2024" "See all OC meetings"
     style OCMeeting fill:#c2dd64
-
-
 ```
