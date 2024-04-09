@@ -1,9 +1,11 @@
 ---
-title: Hello world!
+title: Hello MDD!
 sidebar_position: 1
 ---
 
 Welcome to the public documentation of the MDD program committee (OC).
+
+The OC is the guardian of the [OER](/files/master-digital-design-2023-2024.pdf) and is there to provide feedback on the program and the quality of the education.
 
 In this documentation you will find all matters discussed during the meetings of the OC. The OC is a group of students and teachers that tries to meet every 4 weeks to discuss the program and the quality of the education. More information about an OC within the HvA can be found [on the HvA website](https://www.hva.nl/praktisch/algemeen/faculteiten/fmr/opleidingscommissies/opleidingscommissies-fmr.html).
 

@@ -1,6 +1,13 @@
 ---
+title: Getting started
 sidebar_position: 1
 ---
+
+## Teaching and Examination Regulations
+
+Can be found in the [OER](/files/master-digital-design-2023-2024.pdf)
+
+## OC members
 
 Contact information of the 2023/2024 OC members.
 
