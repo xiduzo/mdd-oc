@@ -49,6 +49,10 @@ The two student representatives have been selected by the whole cohort during an
     </tbody>
 </table>
 
+It is important to note that, due to unfortunate planning of the chair, this years advice report has not been reviewd by the student members.
+
+As will be mentioned in the intentions for upcoming academic year, the OC is striving to become a more mature body within the MDD.
+
 ## Consent rights of the OC regarding the Teaching and Examination Regulations for master’s degree programme
 
 **2.2 Exit qualifications/academic achievements**
