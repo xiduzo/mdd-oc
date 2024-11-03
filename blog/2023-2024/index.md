@@ -23,7 +23,7 @@ The two student representatives have been selected by the whole cohort during an
     <thead>
         <tr>
             <th>Name members</th>
-            <th>Teacher or Student</th>
+            <th>Staff or Student</th>
             <th>Member since</th>
         </tr>
     </thead>
@@ -40,7 +40,7 @@ The two student representatives have been selected by the whole cohort during an
         </tr>
         <tr>
             <td>Sander Boer</td>
-            <td>Teacher</td>
+            <td>Staff</td>
             <td>2021</td>
         </tr>
         <tr>
@@ -111,7 +111,11 @@ As will be mentioned in the intentions for upcoming academic year, the OC is str
 
 **Describe - briefly and in summary - the main points of the opinion on the OER.**
 
+Since the introduction of the `no grades` system in the MDD concerns have been raised for potential further positions beyond the program. Some positions require a specific GPA. While the MDD provides a translation table from `no grade` to `grade` when required, it is impossible to even reach a _summa cum laude_. Only when receiving the max "grade" (`Visionary`) on all indicators, which is highly unlikely, you are eligible to receive this distinction on your diploma. Similarly for _cum laude_, reaching a 8.0, is a near-impossible achievement. The advice from the OC is to (re-)adjust the translation matrix to make it possible for students to graduate with distinction.
+
 **Indicate whether, in the opinion of the program committee, its recommendations on the OER are generally taken seriously.**
+
+Although most concerns were taken seriously, the limitations on changing the OER was noted by the OC. One of the biggest concerns for this years OC was the sudden change of hearts into a `no grades` system while the details of this needs to be worked out more before it could be generally accepted to work in the benefit of the students.
 
 ## Evaluation on the use of study advance funds (SVM)
 
@@ -143,7 +147,6 @@ None, the OC was not involved in the SVM.
 
 - The `dojos` and `masterclasses` provided during the year were received as very useful. The OC would like to note that it would be beneficial to the program to structure these events more so that students can plan around this.
 - Reflecting on the `Foundations` weeks, the OC noted that this took a significant chunk of the academic year. While they are perceived as useful, which differs per foundation/student, it would be good to reconsider the foundation-weeks. The OC proposed to the staff to think about a way in which foundations could be given in parallel to both reduce the time-period on which they need to take place as well as the option for students to pick foundations they would like to take part in (e.g. not taking part in a typography foundation with a background as a professional UI designer)
-- Since the introduction of the `no grades` system in the MDD concerns have been raised for potential further positions beyond the program. Some positions require a specific GPA. While the MDD provides a translation table from `no grade` to `grade` when required, it is impossible to even reach a _summa cum laude_. Only when receiving the max "grade" (`Visionary`) on all indicators, which is highly unlikely, you are eligible to receive this distinction on your diploma. Similarly for _cum laude_, reaching a 8.0, is a near-impossible achievement. The advice from the OC is to (re-)adjust the translation matrix to make it possible for students to graduate with distinction.
 - The MDD staff has been lacking clear communication over the course of the past year. This resulted in students not knowing what was going on in the program and made it hard to plan accordingly. While efforts were made during the year to provide a planning at least a week ahead, the OC thinks this is a big area of improvement for coming academic years.
 - The MDD makes a distinction between formative and summative assessments. While the latter is the official moment to received a grade the OC advices the MDD to give an indication on where the student stands in the formative assessment besides the provided written feedback.
 
