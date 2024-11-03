@@ -7,6 +7,8 @@ date: 2024-11-03
 
 ## Introduction
 
+The OC started to become more transparent in what they do and how they do it. We hope this will give the students a better understanding and trust in the way the members represent them.
+
 This year we saw the normalization for the use of AI in the workplace. Although the Master Digital Design (MDD) embraces new technologies, as reflected last year, we are aware that we should remain critical in its' use. Concerns were raised from the teaching staff as there was a significant increase in LLM generated text in student documents submitted for assessments.
 
 The MDD started an open discussion with this years' cohort on what are the expectations and how can we, together, use AI in a responsible matter. We hope to continue this discussion with the next cohort.
@@ -49,133 +51,109 @@ The two student representatives have been selected by the whole cohort during an
     </tbody>
 </table>
 
+## Education committee
+
+The table below shows how many members have completed or are in the process of completing HvA OC training.
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Number of members</th>
+            <th>Number completed</th>
+            <th>Number in progress</th>
+        </tr>
+        <tr>
+            <th colspan="2"></th>
+            <th>OC education HvA</th>
+            <th>OC education HvA</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Education Committee</td>
+            <td>3</td>
+            <td>2</td>
+            <td>1</td>
+        </tr>
+    </tbody>
+</table>
+
 It is important to note that, due to unfortunate planning of the chair, this years advice report has not been reviewd by the student members.
 
 As will be mentioned in the intentions for upcoming academic year, the OC is striving to become a more mature body within the MDD.
 
-## Consent rights of the OC regarding the Teaching and Examination Regulations for master’s degree programme
+## Facilitate program committee and testing committee
 
-**2.2 Exit qualifications/academic achievements**
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">Facilitate members of training committee</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Does the number of hours made available to the program committee at least meet the HvA-wide lower limit set: (80)</td>
+            <td><strong>yes</strong></td>
+        </tr>
+        <tr>
+            <td>Are additional hours - beyond the lower limit - provided to the training committee?</td>
+            <td><strong>no</strong></td>
+        </tr>
+        <tr>
+            <td>Does the program committee have administrative support (official secretary) </td>
+            <td><strong>no</strong></td>
+        </tr>
+    </tbody>
+</table>
 
-_the qualities in the field of knowledge, insight and skills that a student must have acquired upon completion of the study programme_
+## Evaluation on the Education and Examination Regulations (OER)
 
-\-
+**Describe - briefly and in summary - the main points of the opinion on the OER.**
 
-**2.3 Structure of curriculum**
+**Indicate whether, in the opinion of the program committee, its recommendations on the OER are generally taken seriously.**
 
-_with regard to which master's programs application has been made to Article 7.4a, paragraph eight (size greater than 60 EC)_
+## Evaluation on the use of study advance funds (SVM)
 
-N/A
+**In what way is the training committee involved in the development of plans for the spending of SVM the decision-making on them?**
 
-**2.3 Structure of curriculum**
+None, the OC was not involved in the SVM.
 
-_the way in which the education in the relevant study program is evaluated._
+**In what way is the training committee informed about the realization of the plans?**
 
-\-
+None, the OC was not involved in the SVM.
 
-**3.4 Structure of curriculum**
+**Describe what the training committee thinks about:**
 
-_where necessary, the organization of practical exercises_
+_“the involvement of the program committee in the development of plans for the spending of SVM and its decision-making (full discussion partner, timely involvement, plans submitted for approval?)“_
 
-The `dojos` and `masterclasses` provided during the year were received as very useful. The OC would like to note that it would be beneficial to the program to structure these events more so that students can plan around this.
+None, the OC was not involved in the SVM.
 
-**8.1/8.1 Test overview**
+_”the information that the program committee receives about the realization of the plans (sufficiently clear and at the agreed upon times?)”_
 
-_the content of the specializations within a study programme_
+// TODO
 
-\-
+**Describe what the program committee thinks about the realization of the plans: in the opinion of the program committee, have the plans been realized to a sufficient degree or not?**
 
-_the study load of the program and of each of its parts constituting units of study_
+None, the OC was not involved in the SVM.
 
-\-
+## Advice and evaluation on advice to management
 
-## Recommendations from the OC regarding articles where the Participation Council has consent rights
+**Describe - briefly and in summary - the main points of the other advice (i.e., not about the OER and the spending of SVM) issued by the program committees.**
 
-**2.3 Structure of curriculum**
+- The `dojos` and `masterclasses` provided during the year were received as very useful. The OC would like to note that it would be beneficial to the program to structure these events more so that students can plan around this.
+- Reflecting on the `Foundations` weeks, the OC noted that this took a significant chunk of the academic year. While they are perceived as useful, which differs per foundation/student, it would be good to reconsider the foundation-weeks. The OC proposed to the staff to think about a way in which foundations could be given in parallel to both reduce the time-period on which they need to take place as well as the option for students to pick foundations they would like to take part in (e.g. not taking part in a typography foundation with a background as a professional UI designer)
+- Since the introduction of the `no grades` system in the MDD concerns have been raised for potential further positions beyond the program. Some positions require a specific GPA. While the MDD provides a translation table from `no grade` to `grade` when required, it is impossible to even reach a _summa cum laude_. Only when receiving the max "grade" (`Visionary`) on all indicators, which is highly unlikely, you are eligible to receive this distinction on your diploma. Similarly for _cum laude_, reaching a 8.0, is a near-impossible achievement. The advice from the OC is to (re-)adjust the translation matrix to make it possible for students to graduate with distinction.
+- The MDD staff has been lacking clear communication over the course of the past year. This resulted in students not knowing what was going on in the program and made it hard to plan accordingly. While efforts were made during the year to provide a planning at least a week ahead, the OC thinks this is a big area of improvement for coming academic years.
+- The MDD makes a distinction between formative and summative assessments. While the latter is the official moment to received a grade the OC advices the MDD to give an indication on where the student stands in the formative assessment besides the provided written feedback.
 
-_the full-time, part-time or dual structure of the study programme_
+**Examples of subjects on which the program committee can advise innovations in education; the self-reflection drawn up by the program during an accreditation or midterm; the way in which education is evaluated; etc.**
 
-N/A
+The OC feels like it can help steer/guide the conversation on the use of AI/LLM technology in the work of the students. What is unclear as of now is how the MDD will uphold the rules and regulations of the HvA when it comes to the use of AI/LLM technology in the work of the students where it is also promoted to experiment with new technologies.
 
-**2.4 Education format**
+**Indicate whether, in the opinion of the program committee, the advice is generally taken seriously.**
 
-_the actual design of education_
-
-Reflecting on the `Foundations` weeks, the OC noted that this took a significant chunk of the academic year. While they are perceived as useful, which differs per foundation/student, it would be good to reconsider the foundation-weeks.
-
-The OC proposed to the staff to think about a way in which foundations could be given in parallel to both reduce the time-period on which they need to take place as well as the option for students to pick foundations they would like to take part in (e.g. not taking part in a typography foundation with a background as a professional UI designer)
-
-**3.2/3.2 Number of attempts Sequential order**
-
-_the number and sequence of the examinations as well as the times at which they can be taken_
-
-\-
-
-**3.2 Sequential order**
-
-_where necessary, that passing exams is a condition for admission to other courses exams_
-
-> This advice goes for what goes on beyond the HvA
-
-Since the introduction of the `no grades` system in the MDD concerns have been raised for potential further positions beyond the program. Some positions require a specific GPA.
-
-While the MDD provides a translation table from `no grade` to `grade` when required, it is impossible to even reach a _summa cum laude_. Only when receiving the max "grade" (`Visionary`) on all indicators, which is highly unlikely, you are eligible to receive this distinction on your diploma.
-
-Similarly for _cum laude_, reaching a 8.0, is a near-impossible achievement.
-
-The advice from the OC is to (re-)adjust the translation matrix to make it possible for students to graduate with distinction.
-
-**3.4 Practical components**
-
-_where necessary, the obligation to participate in practical exercises with a view to being admitted to the examination concerned, subject to the authority of the to grant an exemption from that obligation to the examination board, whether or not subject to substitute requirements_
-
-N/A
-
-**3.11/8.3 Validity**
-
-_where necessary, the period of validity of successfully passed
-examinations, subject to the authority of the Examination Board to extend that period of validity_
-
-N/A
-
-**8.1/8.2 Test overview**
-
-_where necessary, the order in which, the periods in which and the
-number of times per academic year that the opportunity is offered to take the interim and final examinations_
-
-\-
-
-_whether the interim examinations are taken orally, in writing or in another way, subject to the authority of the Examination Board in special cases to determine otherwise_
-
-While most students were afraid of the high-stakes assessment moments, the `mock assessment` the MDD held with Sjoerd Simmerman (last years student & OC member) provided much clarity on what to expect.
-
-## Additional remarks (advice) per chapter of the TER
-
-**Teaching**
-
-The MDD staff has been lacking clear communication over the course of the past year. This resulted in students not knowing what was going on in the program and made it hard to plan accordingly.
-
-While efforts were made during the year to provide a planning at least a week ahead, the OC thinks this is a big area of improvement for coming academic years.
-
-**Tests and partial test**
-
-The MDD makes a distinction between `formative` and `summative` assessments. While the latter is the official moment to received a grade the OC advices the MDD to give an indication on where the student stands in the formative assessment besides the provided written feedback.
-
-**Rules for sitting tests and partial tests**
-
-\-
-
-**Examination Board and Appeals Board**
-
-\-
-
-**Validity of Teaching and Examinations Regulations**
-
-\-
-
-**Test overview**
-
-\-
+Although most concerns were taken seriously, the limitations on changing the OER was noted by the OC. One of the biggest concerns for this years OC was the sudden change of hearts into a `no grades` system while the details of this needs to be worked out more before it could be generally accepted to work in the benefit of the students.
 
 ## Intentions for upcoming academic year
 
