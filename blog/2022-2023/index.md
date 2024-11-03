@@ -32,17 +32,17 @@ New AI technologies, such as ChatGPT, took the world by storm. These new technol
             <td>2022</td>
         </tr>
         <tr>
-            <td>Yaşmine Khalil</td>
-            <td>Student</td>
-            <td>2022</td>
-        </tr>
-        <tr>
             <td>Sander Boer</td>
             <td>Teacher</td>
             <td>2021</td>
         </tr>
         <tr>
             <td>Sjoerd Simmerman</td>
+            <td>Student</td>
+            <td>2022</td>
+        </tr>
+        <tr>
+            <td>Yaşmine Khalil</td>
             <td>Student</td>
             <td>2022</td>
         </tr>

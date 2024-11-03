@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "MDD OC",
-  tagline: ">> tagline <<",
+  tagline: "Guardians of the TER",
   favicon: "img/logo.svg",
   plugins: [require.resolve("docusaurus-lunr-search")],
   // Set the production url of your site here

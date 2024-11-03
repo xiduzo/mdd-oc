@@ -4,17 +4,30 @@ sander_boer:
   url: mailto:a.s.boer@hva.nl
   # image_url: https://teams.microsoft.com/75b5b535-e748-4ad6-8f9a-990ac1c59fb9
 
+# 2024
+muskan_jain:
+  name: Muskan Jain
+  title: OC member - student
+  url: muskan.jain@hva.nl
+
+martin_rowe:
+  name: Martin Rowe
+  title: OC member - student
+  url: martin.rowe@hva.nl
+
+# 2023
 karim_marei:
   name: Karim Marei
   title: OC member - student
-  url: mailto:karim.marei@hva.nl
+  # url: mailto:karim.marei@hva.nl
 
 eli_keshavarzikhoozani:
   name: Eli Keshavarzikhoozani
   title: OC member - student
-  url: mailto:eli.keshavarzikhoozani@hva.nl
+  # url: mailto:eli.keshavarzikhoozani@hva.nl
   # image_url: https://teams.microsoft.com/api/mt/part/emea-03/beta/users/8:orgid:4c334ee8-707b-42dc-9cd5-737e13092933/profilepicturev2?displayname=Eli%20Keshavarzikhoozani&size=HR96x96
 
+# 2022
 romar_van_tongeren:
   name: Romar van Tongeren
   title: OC member - student
