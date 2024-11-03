@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkoc=self.webpackChunkoc||[]).push([[9966],{5105:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/mdd-oc/rapport","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
